@@ -1,4 +1,4 @@
-# Gestion des Clients et des Services
+# Projet 1 : Gestion des Clients et des Services
 
 # À propos
 
@@ -62,5 +62,10 @@ Gestion des service:
 
 Recherche des clients par service:
 
-![image](https://github.com/nainiaasmaa/TP-JDBC/assets/147659638/ba14e069-b216-4900-b600-ec4af8845b2d)
+  ![image](https://github.com/nainiaasmaa/TP-JDBC/assets/147659638/ba14e069-b216-4900-b600-ec4af8845b2d)
 
+# Projet 2 : Système de messagerie 
+
+-> Diagramme de classe du système de messagerie 
+
+ ![image](https://github.com/nainiaasmaa/TP-JDBC/assets/147659638/0e426409-ce06-45b3-b5dc-3f968e7a9efc)
