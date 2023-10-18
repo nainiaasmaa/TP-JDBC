@@ -69,3 +69,10 @@ Recherche des clients par service:
 -> Diagramme de classe du système de messagerie 
 
  ![image](https://github.com/nainiaasmaa/TP-JDBC/assets/147659638/0e426409-ce06-45b3-b5dc-3f968e7a9efc)
+
+# Projet 3 : Gestion des employés 
+
+-> Diagramme de classe 
+
+![image](https://github.com/nainiaasmaa/TP-JDBC/assets/147659638/3c269df7-0a54-4e70-b774-29671beb8abd)
+
